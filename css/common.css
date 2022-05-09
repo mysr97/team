@@ -132,7 +132,7 @@ nav>ul>li>ul{
   color: #fff;
   flex-shrink: 0;
 }
-#search>.hide1{
+#search>.hide{
   border-right: 1px solid #333;
   padding: 0 20px;
 }
